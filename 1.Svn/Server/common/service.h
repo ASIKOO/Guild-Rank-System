@@ -1,0 +1,1 @@
+#define GUILD_RANK_SYSTEM
